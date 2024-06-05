@@ -12,7 +12,7 @@ You must have a system from **early 2017 or later** (mainly due to the requireme
 
 # Applications made specifically for DaniDKU 2
 ## JewleahInstaller
-JewleahInstaller (full application link): https://github.com/dantifyy/JewleahInstaller <br>
+JewleahInstaller (full application link): https://github.com/Dencrn/JewleahInstaller <br>
 JewleahInstaller (iDKU edition): COMING SOON
 
 # Credit to these people for making JewleahInstaller possible
